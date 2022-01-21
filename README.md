@@ -1,6 +1,11 @@
-# meal_app
+# Meal App
 
 A new Flutter project.
+
+## Changelog
+### Version 1.0.0
+- Category screen (Main menu): Display 11 categories menu card
+- Category meals screen: Display meals based on categories
 
 ## Getting Started
 
